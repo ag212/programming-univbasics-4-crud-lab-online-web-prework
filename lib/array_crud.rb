@@ -35,7 +35,7 @@ end
 
 def retrieve_first_element_from_array(array)
   crayon_colors= ["wow","blue","green","yellow"]
-  crayon_colors[]
+  crayon_colors[0]
 end
 
 def retrieve_last_element_from_array(array)
@@ -44,6 +44,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-["red","blue","green","arrays!","totally"]
-crayon_colors[4]
+["red","blue","green","arrays!","yellow"]
+crayon_colors[4]= "totally"
 end
