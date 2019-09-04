@@ -27,10 +27,10 @@ end
 
 def retrieve_element_from_index(array, index_number)
   crayon_colors= ["red","blue","green","am"]
-  crayon_colors[]
-  crayon_colors[]
-  crayon_colors[]
-  crayon_colors[]
+  crayon_colors[0]
+  crayon_colors[1]
+  crayon_colors[2]
+  crayon_colors[3]
 end
 
 def retrieve_first_element_from_array(array)
