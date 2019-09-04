@@ -45,5 +45,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 ["red","blue","green","arrays!","yellow"]
-crayon_colors[4]= "totally"
+crayon_colors[2]= "totally"
 end
