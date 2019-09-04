@@ -35,7 +35,7 @@ end
 
 def retrieve_first_element_from_array(array)
   crayon_colors= ["wow","blue","green","yellow"]
-  
+  crayon_colors[0]
 end
 
 def retrieve_last_element_from_array(array)
